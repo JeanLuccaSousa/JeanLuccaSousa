@@ -1,4 +1,4 @@
-## Olá! Eu sou o Jean Lucca
+
 
 - 🔭 Hoje trabalho com Front-End
 - 🌱 Estudando React e Kotlin
