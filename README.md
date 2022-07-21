@@ -1,7 +1,8 @@
 
 
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando React e Kotlin
+## Hey, I'm Jean Lucca 
+ - I'm a Front-End Developer;
+ - I'm studing Kotlin now
 
 <div align="center">
   <a href="https://github.com/JeanLuccaSousa">
@@ -14,9 +15,14 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"/>
+ </div>
  <br/>
  <br/>
+ 
+ 
+ 🇧🇷 Born in Lençóis Paulista, Brazil <br>
+ IT Living in Torino, Italy
  
 
 
