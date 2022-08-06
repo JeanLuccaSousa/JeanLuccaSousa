@@ -2,7 +2,6 @@
 
 ## Hey, I'm Jean Lucca 
  - I'm a Front-End Developer; 
- - I'm studing Kotlin now;
  - I love Dogs;
  - I really like coffee.
 
