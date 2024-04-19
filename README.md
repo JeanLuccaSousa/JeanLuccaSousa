@@ -3,7 +3,9 @@
 ## Hey, I'm Jean Lucca 
  - I'm a Front-End Developer; 
  - I love Dogs;
- - I really like coffee and peppers.
+ - I love camping and hiking in the mountains;
+ - I really like coffee and peppers;
+
 
  <div style="display:flex">
     <img align="center" alt="Bandeira-Brasil" height="20" width="30" src="https://www.bing.com/th?id=OIP.avWx6zurTwFtYTuHW8SnwwHaFL&w=298&h=209&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2"/>
