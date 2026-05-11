@@ -21,7 +21,7 @@
 
  <hr>
   
- ### Find me at ➤
+ ## Find me at ➤
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USUARIO/) [![Email](https://img.shields.io/badge/Email-005A9E?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jean_luccalp@hotmail.com)
 
